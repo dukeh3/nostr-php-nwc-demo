@@ -10,7 +10,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/dukeh3/nostr-php-nwc"
+            "url": "https://github.com/dukeh3/nostr-php-nwc.git"
         }
     ]
 }
