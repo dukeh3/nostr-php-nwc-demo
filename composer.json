@@ -1,0 +1,16 @@
+{
+    "name": "dukeh3/nostr-php-nwc-demo",
+    "description": "Demo: connect to a Lightning node via NWC (NIP-47) in PHP",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1",
+        "dsbaars/nostr-php-nwc": "dev-main"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/dukeh3/nostr-php-nwc"
+        }
+    ]
+}
